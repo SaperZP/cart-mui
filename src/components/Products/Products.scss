@@ -1,0 +1,9 @@
+.Products {
+  &__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    flex-grow: 1;
+  }
+}
